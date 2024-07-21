@@ -1,2 +1,2 @@
-# resultadoshistoricosjuegosolimpicos
+# Resultados_Historicos_Juegos_Olimpicos
 Resultados Históricos Juegos Olímpicos
